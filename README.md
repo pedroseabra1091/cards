@@ -1,4 +1,5 @@
 # Cards
+Shuffle and deal cards built with Elixir.
 
 Features:
 - Create an array of playing cards
@@ -25,3 +26,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
+## Tests & Documentation
+
+To run tests: `mix tests`
+To check documentation: `mix docs`
