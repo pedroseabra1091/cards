@@ -1,6 +1,12 @@
 # Cards
 
-**TODO: Add description**
+Features:
+- Create an array of playing cards
+- Shuffle an array of playing cards
+- Create a hand of cards
+- Given a deck and a single card, figure out if the card is in the deck
+- Save a collection of cards to a file on the local machine
+- Load a collection of cards from the local machine
 
 ## Installation
 
