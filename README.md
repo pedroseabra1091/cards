@@ -28,5 +28,6 @@ be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
 ## Tests & Documentation
 
-To run tests: `mix tests`
-To check documentation: `mix docs`
+Run tests: `mix tests`.
+
+Check documentation: `mix docs`.
