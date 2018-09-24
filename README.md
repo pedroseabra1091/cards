@@ -1,7 +1,7 @@
 # Cards
 Shuffle and deal cards built with Elixir.
 
-Features:
+**Features**:
 - Create an array of playing cards
 - Shuffle an array of playing cards
 - Create a hand of cards
