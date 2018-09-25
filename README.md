@@ -27,7 +27,7 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
 ## Run
-On the interactive shell, type `Cards.create_hand(hand_size))`. This will create the deck, shuffle and deal according the defined hand size.
+On the interactive shell, type `Cards.create_hand(hand_size))`. This will create a deck, shuffle and deal according to the defined hand size.
 
 ## Tests & Documentation
 
