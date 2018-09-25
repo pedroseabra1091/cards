@@ -26,6 +26,9 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
+## Run
+On the interactive shell, type `Cards.create_hand(hand_size))`. This will create the deck, shuffle and deal according the defined hand size.
+
 ## Tests & Documentation
 
 Run tests: `mix tests`.
